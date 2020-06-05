@@ -75,7 +75,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* aside  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,7 +102,7 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* services  */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
